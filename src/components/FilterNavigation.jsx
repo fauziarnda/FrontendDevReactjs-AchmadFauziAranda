@@ -18,7 +18,7 @@ export default function FilterNavigation({
               type="checkbox"
               checked={showOpenNow}
               onChange={() => setShowOpenNow(!showOpenNow)}
-              className="appearance-none w-4 h-4 rounded-full border border-gray-400 accent-blue-950"
+              className="appearance-none w-4 h-4 rounded-full border border-gray-400 checked:bg-blue-950 checked:border-blue-950"
             />
             <span>Open Now</span>
           </label>
