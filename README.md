@@ -1,12 +1,35 @@
-# React + Vite
+# Restaurants App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a restaurant web application built using **React.js**, **Vite**, and **Tailwind CSS**. The codebase is modular and organized for scalability and maintainability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js**: v19.1.0
+- **React DOM**: v19.1.0
+- **React Router DOM**: v7.6.2
+- **Vite**: v6.3.5
+- **Tailwind CSS**: v3.4.17
+- **Node.js**: v18.18.2
+- **npm**: v9.8.1
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/fauziarnda/FrontendDevReactjs-AchmadFauziAranda.git
+cd restaurant-app
+```
+
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3. Start Development Server
+```bash
+npm run dev
+```
