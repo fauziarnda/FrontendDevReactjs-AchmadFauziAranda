@@ -1,6 +1,5 @@
 # Restaurants App
-
-This is a restaurant web application built using **React.js**, **Vite**, and **Tailwind CSS**. The codebase is modular and organized for scalability and maintainability.
+A Restaurant aeb application built using **React.js**, **Vite**, and **Tailwind CSS**. 
 
 ---
 
